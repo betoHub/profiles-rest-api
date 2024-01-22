@@ -1,0 +1,12 @@
+
+[vagrant]
+
+-> vagrant up
+-> vagrant ssh
+-> vagrant halt
+
+
+[venv activation]
+
+-> source ~/env/bin/activate
+-> deactivate
